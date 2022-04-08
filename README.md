@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gandhiprajwal8
+- 👋 Hi, I’m @terror_201.
 - 👀 I’m interested in Web Development and Software Development. 
 - 🌱 I’m currently learning DIT University.
 - 💞️ I’m looking to collaborate on ...
